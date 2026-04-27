@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Final Project
+email: jkar@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An interactive data analysis exploring whether COMP110 should implement peer code review sessions.
+  Using Python and Seaborn visualizations, this project analyzes survey data from 230 students across majors,
+  class years, and programming experience levels to provide data-driven recommendations for improving collaborative 
+  learning in the course.
 baseurl: "/<custom-path>" # the subpath of your site, e.g. /blog
-url: "https://github-JKar23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "JKar23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: joshuak81
+github_username:  JKar23
 
 # Build settings
 # Build settings
