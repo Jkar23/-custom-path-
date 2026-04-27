@@ -21,11 +21,11 @@ I analyzed three key aspects of the student population:
 
 ## Visualizations
 
-<img src="</static/imgs/majors_chart.png" alt="Bar chart showing distribution of student majors" width="700"/>
+<img src="static/imgs/majors_chart.png" alt="Bar chart showing distribution of student majors" width="700"/>
 
-<img src="/static/imgs/years_scatter.png" alt="Scatter plot showing distribution of student years" width="700"/>
+<img src="static/imgs/years_scatter.png" alt="Scatter plot showing distribution of student years" width="700"/>
 
-<img src="/static/imgs/experience_chart.png" alt="Bar chart showing prior programming experience levels" width="700"/>
+<img src="static/imgs/experience_chart.png" alt="Bar chart showing prior programming experience levels" width="700"/>
 
 ## Conclusions
 
